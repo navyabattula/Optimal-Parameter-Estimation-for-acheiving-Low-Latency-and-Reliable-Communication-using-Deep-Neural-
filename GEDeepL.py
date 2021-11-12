@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 28 11:26:37 2020
 
-@author: bsr
+@author: Navya
 """
 import numpy as np
 from keras.models import Sequential
